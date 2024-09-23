@@ -5,7 +5,6 @@ public class Fish extends Animal {
         System.out.println("I cant walk on land im swimming in the water two meters");
     }
 
-
     @Override
     public void eat()
     {
